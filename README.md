@@ -14,6 +14,7 @@ Excelを用いたデータ入力、データ整形、データ集計練習の成
 - FIND
 - ISERROR
 - TRIM / SUBSTITUTE
+- VALUE
 
 「条件付き書式を活用したこと」
 - 重複削除
